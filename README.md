@@ -5,8 +5,8 @@ Submitted on Tuesday 19 July - 10:50 am
 The CastleCompany
 
 ## How to Run
-1- main method: src->aequilibrium->Main.java \n
-2- Use the test units
+*1- main method: src->aequilibrium->Main.java \n
+*2- Use the test units
 
 ## Works Done
 1- Design and Implementation of the project. 
