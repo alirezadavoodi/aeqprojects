@@ -21,7 +21,7 @@ public class Main {
 		//Integer[] stretchOfLand = {2,2,2,2,2,2,2,2,2,2,1,5,1,2,2,2,2,2,2,2,2,2,2,2};
 		//Integer[] stretchOfLand = {2,2,1,5,1,2,2};
 		//Integer[] stretchOfLand = {8,0,0,0,1,1,2,2,2,2,1,1,1,3,3,3,3,90};
-		Integer[] stretchOfLand = {1,2,1};
+		Integer[] stretchOfLand = {1,2,2};
 		
 		//step2: build castles
 		BuildingCastle buildingCastle = new BuildingCastle();		
