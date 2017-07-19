@@ -1,7 +1,7 @@
 # Aequilibrium Projects: 
 Submitted on Tuesday 19 July - 10:50 am
 
-# Project Title
+# Project Title: The CastleCompany
 The CastleCompany
 
 ## How to Run
@@ -34,8 +34,8 @@ for instance for this input [1,2,1], 3 castles are possible
 and for this input [1,2,2], 2 castles are possible
 
 
-# Project Title
-The Project: The TransformationCompany
+# Project Title: The TransformationCompany
+The TransformationCompany
 
 # How to Run
 1- main method: src->aequilibrium->Main.java
