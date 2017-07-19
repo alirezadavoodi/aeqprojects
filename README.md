@@ -1,4 +1,4 @@
-# Aequilibrium Projects: 
+# Aequilibrium Projects 
 Submitted on Tuesday 19 July - 10:50 am
 
 # Project Title: The CastleCompany
@@ -8,12 +8,12 @@ The CastleCompany
 1- main method: src->aequilibrium->Main.java
 2- Use the test units
 
-## Works Done:
+## Works Done
 1- Design and Implementation of the project. 
 2- Adding some test units: testcases package
 3- Adding Java docs: doc folder: start here: /AEQWork/TheCastleCompany/doc/index.html
 
-## Algorithm:
+## Algorithm
 1- Algorithms is described in CastlesBuilderFunction class
 2- The complexity order is O(n)
 
@@ -22,7 +22,7 @@ The CastleCompany
 2- Improving the documentations
 
 
-## Design patterns
+## Design Patterns
 1- Functional Programming (Functional interfaces)
 
 ## Assumptions
@@ -41,7 +41,7 @@ The TransformationCompany
 1- main method: src->aequilibrium->Main.java
 2- Use the test units
 
-## Works Done: 
+## Works Done
 1- Design and Implementation of the project
 2- Adding some test units: testcases package
 3- Adding Java docs: doc folder: start here: /AEQWork/TheTransformationCompany/doc/index.html
