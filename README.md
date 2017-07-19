@@ -4,28 +4,28 @@ Submitted on Tuesday 19 July - 10:50 am
 # Project Title
 The CastleCompany
 
-# How to Run
+## How to Run
 1- main method: src->aequilibrium->Main.java
 2- Use the test units
 
-#Works Done:
+##Works Done:
 1- Design and Implementation of the project. 
 2- Adding some test units: testcases package
 3- Adding Java docs: doc folder: start here: /AEQWork/TheCastleCompany/doc/index.html
 
-#Algorithm:
+##Algorithm:
 1- Algorithms is described in CastlesBuilderFunction class
 2- The complexity order is O(n)
 
-#How to Improve
+##How to Improve
 1- Adding more test cases
 2- Improving the documentations
 
 
-#Design patterns
+##Design patterns
 1- Functional Programming (Functional interfaces)
 
-#Assumptions
+##Assumptions
 In addition to the assumptions described in the project description, I have 
 made the following assumptions:
 
@@ -41,22 +41,22 @@ The Project: The TransformationCompany
 1- main method: src->aequilibrium->Main.java
 2- Use the test units
 
-#Works Done: 
+##Works Done: 
 1- Design and Implementation of the project
 2- Adding some test units: testcases package
 3- Adding Java docs: doc folder: start here: /AEQWork/TheTransformationCompany/doc/index.html
 
-#How to improve
+##How to improve
 1- Adding more test cases
 2- Improving the documentations
 
-#Design patterns
+##Design patterns
 1- Functional Programming
 2- Iterator/Iterable
 3- Observer/Observable
 4- Builder
 
-#Assumptions
+##Assumptions
 In addition to the assumptions described in the project description, I have 
 made the following assumptions:
 
