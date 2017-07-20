@@ -11,7 +11,7 @@ The CastleCompany
 ## Works Done
 * 1- Design and Implementation of the project. 
 * 2- Adding some test units: testcases package
-* 3- Adding Java docs: doc folder: start here: /AEQWork/TheCastleCompany/doc/index.html
+* 3- Adding Java docs: doc folder: start here: ./TheCastleCompany/doc/index.html
 
 ## Algorithm
 * 1- Algorithms is described in CastlesBuilderFunction class
@@ -44,7 +44,7 @@ The TransformationCompany
 ## Works Done
 * 1- Design and Implementation of the project
 * 2- Adding some test units: testcases package
-* 3- Adding Java docs: doc folder: start here: /AEQWork/TheTransformationCompany/doc/index.html
+* 3- Adding Java docs: doc folder: start here: ./TheTransformationCompany/doc/index.html
 
 ## How to improve
 * 1- Adding more test cases
